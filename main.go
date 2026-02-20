@@ -1,6 +1,7 @@
 package main
 
 import (
+	"codeberg.org/reiver/go-env"
 	"github.com/reiver/go-cors"
 
 	"fmt"
@@ -8,9 +9,9 @@ import (
 	"os"
 )
 
-const (
-	tcpport = 8080
-)
+const defaultTCPPort = 8080
+
+var tcpport = env.GetElse[uint16]("PORT", defaultTCPPort)
 
 func main() {
 
