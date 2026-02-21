@@ -12,10 +12,14 @@ Then, if the `corsproxy` serving on the Internet domain `corsproxy.tld`, then th
 http://corsproxy.tld/http://example.com/user/joeblow.atom
 ```
 
-## CORS Heaers
+## CORS Headers
 
 The CORS headers that are added are:
 ```
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: GET, DELETE, HEAD, OPTIONS, PATCH, POST, PUT, TRACE
 ```
+
+## Author
+
+Software **corsproxy** was written by [Charles Iliya Krempeaux](http://reiver.link)
