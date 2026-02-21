@@ -4,6 +4,8 @@ codeberg.org/reiver/go-strparse v0.0.0-20250910131853-c28a285350ee h1:niPRrBoYY+
 codeberg.org/reiver/go-strparse v0.0.0-20250910131853-c28a285350ee/go.mod h1:CpECZtrSEzBBXUa0yyIgFp82hqkBHeUV9qr7VAvy1Mk=
 github.com/reiver/go-cors v0.0.0-20260220210535-2bf210f06135 h1:K0xGXMFGnhJH4k9eGzv3RnOdjUd8/HzCrr5nVeROvbM=
 github.com/reiver/go-cors v0.0.0-20260220210535-2bf210f06135/go.mod h1:/CfittpFA801mFy6vG/wqrq8AG0rdH5TeeU32f763fU=
+github.com/reiver/go-cors v0.0.0-20260221001838-d419a4c2e95e h1:IZ0rOL9riUl9MGD0IqExzwalMAJiZREmocQ+RBJbR24=
+github.com/reiver/go-cors v0.0.0-20260221001838-d419a4c2e95e/go.mod h1:/CfittpFA801mFy6vG/wqrq8AG0rdH5TeeU32f763fU=
 github.com/reiver/go-erorr v0.0.0-20240801233437-8cbde6d1fa3f h1:D1QSxKHm8U73XhjsW3SFLkT0zT5pKJi+1KGboMhY1Rk=
 github.com/reiver/go-erorr v0.0.0-20240801233437-8cbde6d1fa3f/go.mod h1:F0HbBf+Ak2ZlE8YkDW4Y+KxaUmT0KaaIJK6CXY3cJxE=
 github.com/reiver/go-lck v0.0.0-20250904175207-b06db1642fd1 h1:Kt9vEC3yN6itN4LhZFmjKAG23G7a1exp81HIhHIRMc8=

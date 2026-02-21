@@ -4,7 +4,7 @@ go 1.24.3
 
 require (
 	codeberg.org/reiver/go-env v0.0.0-20250910132431-0effb89a51cf
-	github.com/reiver/go-cors v0.0.0-20260220210535-2bf210f06135
+	github.com/reiver/go-cors v0.0.0-20260221001838-d419a4c2e95e
 )
 
 require (
